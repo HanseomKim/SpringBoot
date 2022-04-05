@@ -1,0 +1,8 @@
+# port 변경
+server:
+  port: 8088
+
+# logging level 변경
+logging:
+  level:
+    org.springframework: DEBUG
